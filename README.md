@@ -1,4 +1,4 @@
 # LiveSplit-AutoSplitter-WWII
 
-SETUP:
+# SETUP:
 Open LiveSplit > Right Click > Edit Layout > + > Control > Scriptable Auto Splitter
